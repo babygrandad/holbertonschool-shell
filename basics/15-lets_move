@@ -1,2 +1,3 @@
 #!/bin/bash
-mv [A-Z]* /tmp/
+mv [[:upper:]]* Uppercase_Files/
+
