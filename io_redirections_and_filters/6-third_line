@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n 5 filename | tail -n 1
